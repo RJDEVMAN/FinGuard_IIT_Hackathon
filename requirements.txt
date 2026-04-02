@@ -2,7 +2,7 @@ langchain
 langgraph
 google-genai
 streamlit
-pyTigerGraph==1.7.0
+pyTigerGraph==1.8.0
 fastapi
 uvicorn
 pydantic
@@ -17,3 +17,4 @@ httpx
 pymupdf
 python-docx
 tavily-python
+groq
